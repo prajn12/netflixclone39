@@ -12,7 +12,7 @@ body {
 }
 
 .main {
-    background-image: url("assets/images/bg.jpeg");
+    background-image: url("bg.jpeg");
     height: 644px;
     position: relative;
     background-position: center center;
